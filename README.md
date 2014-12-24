@@ -5,7 +5,7 @@ Arduino-Camp
 ##Monday
 - Intros
 - STEM careers
-- Engineering Meathod
+- Engineering Method
 - The Ardunio
   - The Chip
   - Setting Up The Board
