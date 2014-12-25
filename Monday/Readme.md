@@ -6,7 +6,7 @@
 [Engineering](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
 
 - The Ardunio
-[The Arduino](https://prezi.com/jdhol8z_zskh/engineering-method/ "YouTube")
+[The Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc "YouTube")
   - The Chip
   - Setting Up The Board
   - Setting Up The Arduino IDE
