@@ -2,7 +2,7 @@ arduino-1.0.6/
 USK\ Guide\ Code/
 *.zip
 *.tgz
-
+*.swp
 
 
 # Object files
