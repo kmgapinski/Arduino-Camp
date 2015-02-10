@@ -25,11 +25,34 @@ Arduino-Camp
     - Intro to the LED
     - Intro to the Resistor
     - Arduino Code Structure - Setup() Loop()
+    - pinMode - Set I/O Mode of Pin
+    - digitalWrite - High/Low
+    - delay(int ms)
 
 ##Tuesday
 ###Morning
 - Circuit 2 (pg 24)
   - Potentiometer (Variable Resistor)
   - Analog to Digital Conversion
+  - Variables
+    - Declare & Set; int x = 5
+    - Modify; x = 2
   - Comments // /* */ 
+
+###Afternoon
+- Circuit 3 (pg 28)
+  - Multi-Color LED
+  - Set-up only and run; no code review
+
+- Circuit 4 (pg 32)
+  - functions()
+  - [Video on arrays/for loops] (TODO)
+  - for() loop
+  - arrays[] 
+  - random()
+  - re-hit comments
+
+
+##Wednesday
+###Morning
 
