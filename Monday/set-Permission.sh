@@ -7,6 +7,9 @@ fi
 echo "Adding to dialout group"
 /usr/sbin/usermod -aG dialout $SUDO_USER
 
+echo "Installing JRE - needed for Arduino IDE"
+/usr/bin/apt-get install default-jre
+
 read -p "Computer needs to restart. Now? " -n 1 -r
 if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
