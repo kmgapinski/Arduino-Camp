@@ -1,6 +1,25 @@
 Arduino-Camp
 ============
 
+#Summary
+Arduino Camp is focused on basic programming and electronics. It teaches students to think critically about a problem, to solve tasks with a systematic approach, and to work with engineering disciplines. The camp starts teaching the basics of programming a microcontroller, debugging, hooking up sensors, and basic circuits. The capstone event involves the students developing their own system design and building it. The best part is the kids get to keep their Arduino boards after the camp! 
+
+#Audience
+Arduino Camp is great prep for anyone looking to become an electronics technician, electrician, computer programmer and/or looking into a college degree of Computer Engineering, Computer Science, or Electrical Engineering.
+
+#Objective
+Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting STEM in the Central New York and Mohawk Valley Regions of NY. The camps are geared for local Middle and High School students. The camps provide hands on learning in the areas of cyber defense, programming, hardware, software, sensors integration, computer administration, networking, critical thinking, applied learning, and engineering methods and reasoning.
+
+#Goals
+- Have Fun Learning
+- Be Safe
+- Get Students Interested in STEM
+
+#Basic Rules
+- Be Respectful.
+- Don't be a distraction to other's learning.
+- No touching other students board's without their permission.
+
 #Outline
 ##Monday
 ###Morning
