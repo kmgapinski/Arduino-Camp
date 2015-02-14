@@ -17,8 +17,8 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
 
 #Basic Rules
 - Be Respectful.
-- Don't be a distraction to other's learning.
-- No touching other students board's without their permission.
+- Don't be a distraction to others' learning.
+- No touching other students' boards without their permission.
 
 #Outline
 ##Monday
@@ -37,7 +37,7 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
 ###Afternoon
 - Basic Circuits
   - Intro to Basic Electricity
-  - Eletricity  & Safety
+  - Electricity  & Safety
   - [What NOT To Do] (http://www.ruggedcircuits.com/10-ways-to-destroy-an-arduino/)
   - Intro To Digital Logic
   - Debugging / Troubleshooting
@@ -120,7 +120,7 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
 - Assist those that need help
 
 - 12:45 Post-Class Knowledge Survey (same 5-10 questions)
-- Feedack - likes/dislikes of camp
+- Feedback - likes/dislikes of camp
 - 1:00 - Final Wrap up of project
 - 1:30 - Start setting up room for parents
   - Split students into 2 groups
@@ -130,5 +130,5 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
   - 2:00 Group A Presents; Group B w/parents can go around look at Grp A projects
   - 2:30 Grp B Presents; Grp A go around with parents
 - 3:00 - Closing remarks to parents/students
-  - Make sure they take their Arduino's
+  - Make sure they take their Arduinos
 
