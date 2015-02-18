@@ -3,7 +3,8 @@ USK\ Guide\ Code/
 *.zip
 *.tgz
 *.swp
-
+*.log
+*.aux
 
 # Object files
 *.o

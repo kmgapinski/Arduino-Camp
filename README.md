@@ -10,6 +10,11 @@ Arduino Camp is great prep for anyone looking to become an electronics technicia
 #Objective
 Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting STEM in the Central New York and Mohawk Valley Regions of NY. The camps are geared for local Middle and High School students. The camps provide hands on learning in the areas of cyber defense, programming, hardware, software, sensors integration, computer administration, networking, critical thinking, applied learning, and engineering methods and reasoning.
 
+#Location
+725 Daedalian Dr.
+Rome, NY 13441
+315-838-1696 
+
 #Goals
 - Have Fun Learning
 - Be Safe
@@ -27,7 +32,7 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
 - Pre-Class Knowledge Survey (5-10 questions)
 - STEM careers
 - [Engineering Method](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
-
+- [Vilros USK Guide](Link to Amazon HERE)
 - [The Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc "YouTube")
   - [The Chip] (http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf)
   - [Setting Up The Board] (https://prezi.com/r6kedhdymlm9/setting-up-your-arduino/)
@@ -41,6 +46,7 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
   - [What NOT To Do] (http://www.ruggedcircuits.com/10-ways-to-destroy-an-arduino/)
   - Intro To Digital Logic
   - Debugging / Troubleshooting
+  - [Arduino Code Doc] (http://arduino.cc/en/reference/homePage)
   - Circuit 1 - Let There Be Light! (pg 16)
     - Intro to the LED
     - Intro to the Resistor
@@ -97,6 +103,7 @@ Cyber Summer Camp 2.0 (CSC2) & Arduino Camp are week long summer camps promoting
 - LCD
   - Serial Read from Comp
   - Write to LCD Screen
+  - [Picture Hookup] (http://arduino.cc/en/uploads/Tutorial/LCD_bb.png)
 
 ##Thursday
 - Questions from yesterday
