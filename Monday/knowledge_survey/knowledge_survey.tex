@@ -1,10 +1,9 @@
 \documentclass{exam}
 \begin{document}
 
-
 \hfill\makebox[1in][r]{\vspace{.1in}Score: \rule{.5in}{1pt}}
 \begin{center}
-  \fbox{\fbox{\centering
+  \mbox{\mbox{\centering
     {\Large Arduino Camp Pre \& Post Knowledge Survey}.}}
 \end{center}
 \vspace{.2in}
@@ -39,7 +38,7 @@
   \question In Arduino Code (C) the correct way to declare and set an "int" variable to 2 is \rule{1in}{1pt}.
     \begin{choices}
       \choice float 2 = x;
-      \choice int x <= 2; 
+      \choice int x \textless= 2; 
       \choice set int x to 2;
       \choice int x = 2;
     \end{choices}
@@ -60,6 +59,7 @@
       \choice amplifier. 
     \end{choices}
   
+  \newpage
   \question What command will turn ON the LED on pin 13? 
     \begin{choices}
       \choice digitalRead(13); 
@@ -69,7 +69,12 @@
     \end{choices}
   
   \question How many times will this command loop before exiting?
-  \fbox{ for(index = 0; index <= 7; index++)}
+  \begin{verbatim}
+    int index;
+    for(index = 0; index <= 7; index++){
+      //Do Something...
+    }
+  \end{verbatim}
     \begin{choices}
       \choice 0 
       \choice 6
@@ -77,6 +82,21 @@
       \choice 8
     \end{choices}
   
+  \question Delay(1000) will delay for how long?
+    \begin{choices}
+      \choice 1000 s (seconds) 
+      \choice 1000 ms (milla-seconds)
+      \choice 1000 cycles
+      \choice 1000 Hz (Hertz)
+    \end{choices}
+
+  \question What is considered an input for a circuit? 
+    \begin{choices}
+      \choice LCD (Liquid Crystal Display)
+      \choice LED
+      \choice Push Button
+      \choice resistor
+    \end{choices}
   
   \end{questions}
 \end{document}
