@@ -32,7 +32,7 @@ Rome, NY 13441
 - Pre-Class Knowledge Survey (5-10 questions)
 - STEM careers
 - [Engineering Method](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
-- [Vilros USK Guide](Link to Amazon HERE)
+- [Vilros USK Guide](http://www.amazon.com/Arduino-Ultimate-Starter-Includes-Instruction/dp/B00BT0NDB8)
 - [The Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc "YouTube")
   - [The Chip] (http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf)
   - [Setting Up The Board] (https://prezi.com/r6kedhdymlm9/setting-up-your-arduino/)
@@ -50,6 +50,7 @@ Rome, NY 13441
   - Circuit 1 - Let There Be Light! (pg 16)
     - Intro to the LED
     - Intro to the Resistor
+    - [Resistor Values] (http://www.dannyg.com/examples/res2/resistor.htm)
     - Arduino Code Structure - Setup() Loop()
     - pinMode - Set I/O Mode of Pin
     - digitalWrite - High/Low
@@ -58,6 +59,7 @@ Rome, NY 13441
 ##Tuesday
 ###Morning
 - Questions from yesterday
+- [Programming Hard???] (https://www.youtube.com/watch?v=pvAsqPbz9Ro)
 - Circuit 2 (pg 24)
   - Potentiometer (Variable Resistor)
   - Analog to Digital Conversion
@@ -73,7 +75,7 @@ Rome, NY 13441
 
 - Circuit 4 (pg 32)
   - functions()
-  - [Video on arrays/for loops] (TODO)
+  - [Video on arrays/for loops] (https://prezi.com/int9ayoc5irt/arduino-arrays-for-loops/)
   - for() loop / while loop
   - arrays[] 
   - random()
