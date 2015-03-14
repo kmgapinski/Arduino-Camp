@@ -11,7 +11,7 @@ Shout out to "Dr." Don Telesca for this amazing acronym!
 - Push Eng Meathod - Thinking/learning OYO
 - Lots of hands on!
 
-##The Arduino - Making an Alarm (10 mins)
+##The Arduino - Making an Intruder Alarm (10 mins)
 - Group Time
 
 ##Q&A (3-5 mins)
