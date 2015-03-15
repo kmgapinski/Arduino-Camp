@@ -8,10 +8,10 @@ Servo servo1;  // servo control object
 //Pins
 const int trip_wire = 12; //input
 const int ir_rec = 11; //input
-const int buzzerPin = 10; //out
-const int ledPin = 9; //out
-const int servoPin = 8; //out
-const int shockPin = 7;//out
+const int buzzerPin = 9; //out
+const int ledPin = 8; //out
+const int servoPin = 5; //out
+const int shockPin = 6;//out
 
 
 
@@ -26,6 +26,8 @@ void setup() {
   pinMode(ledPin, OUTPUT);
   pinMode(servoPin, OUTPUT);
   pinMode(shockPin, OUTPUT);
+  servo1.write(0);
+  delay(200);
 
 }
 
@@ -75,13 +77,24 @@ void call4help(){
 }
 
 void picture(){
+  servo1.write(12);
+  delay(200);
 }
 
 void shock(){
-  
+  for(int index = 0; index <= 7; index++)
+  {
+    digitalWrite(shockPin, HIGH);
+    delay(100);
+    digitalWrite(shockPin, LOW); 
+    delay(100);   
+  }
 }
 
 void cleanup(){
   noTone(buzzerPin);
   digitalWrite(ledPin, LOW);
+  digitalWrite(shockPin, LOW);
+  servo1.write(0);
+  delay(200);
 }
