@@ -32,6 +32,9 @@ Rome, NY 13441
 - Pre-Class Knowledge Survey (5-10 questions)
 - STEM careers
 - [Engineering Method](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
+- Opening the Box
+  - Put your Name on at least the box and your book
+  - Initial the Arduino
 - [Vilros USK Guide](http://www.amazon.com/Arduino-Ultimate-Starter-Includes-Instruction/dp/B00BT0NDB8)
 - [The Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc "YouTube")
   - [The Chip] (http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf)

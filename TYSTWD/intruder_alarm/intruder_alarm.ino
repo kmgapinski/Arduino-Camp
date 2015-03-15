@@ -73,21 +73,22 @@ void light(){
 
 void call4help(){
   Serial.println("Intruder Detected - Alerting Authorities");
-  delay(100);
 }
 
 void picture(){
   servo1.write(12);
   delay(200);
+  servo1.write(0);
+  delay(200);
 }
 
 void shock(){
-  for(int index = 0; index <= 7; index++)
+  for(int index = 0; index <= 4; index++)
   {
     digitalWrite(shockPin, HIGH);
-    delay(100);
+    delay(50);
     digitalWrite(shockPin, LOW); 
-    delay(100);   
+    delay(50);   
   }
 }
 
