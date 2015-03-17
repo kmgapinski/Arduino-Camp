@@ -5,6 +5,7 @@ USK\ Guide\ Code/
 *.swp
 *.log
 *.aux
+*.bak
 
 # Object files
 *.o
