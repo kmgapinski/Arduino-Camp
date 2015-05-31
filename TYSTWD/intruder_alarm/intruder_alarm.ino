@@ -31,8 +31,59 @@ void setup() {
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void loop() {
     
+/*** Put Alarm Code Here***/
+
+
+
+//  delay(2000);
+//  cleanup();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+ //- Working 
   if ( tripWire() || proxySensor() ){
     light();
     call4help();
@@ -43,10 +94,10 @@ void loop() {
   }
   delay(2000);
   cleanup();
-}
 
 
 
+} //loop end
 
 
 int tripWire(){
