@@ -29,7 +29,7 @@ Rome, NY 13441
 ##Monday
 ###Morning
 - Intros
-- Pre-Class Knowledge Survey (5-10 questions)
+- [Pre-Class Knowledge Survey](https://docs.google.com/forms/d/1BN4KHPlSlFA1BTNJHGzhZznNlW7po9thQxIOtxHiV5M/viewform)
 - STEM careers
 - [Engineering Method](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
 - Opening the Box
@@ -124,23 +124,18 @@ Rome, NY 13441
   - Requirements
     - 1 Input
     - 1 Output
-    - 1 IF, FOR , or WHILE statements
+    - At least - 1 IF, FOR , or WHILE statement
 
 ##Friday
-- Status update on project
-- If anyone is done - make them further it.
-- Assist those that need help
-
-- 12:45 Post-Class Knowledge Survey (same 5-10 questions)
-- Feedback - likes/dislikes of camp
-- 1:00 - Final Wrap up of project
-- 1:30 - Start setting up room for parents
+- 9:00 [Post-Class Knowledge Survey](https://docs.google.com/forms/d/1BN4KHPlSlFA1BTNJHGzhZznNlW7po9thQxIOtxHiV5M/viewform)
+- 9:15 - Final Wrap up of Project - Demos not working get priority help! 
+- 10:00 - Start setting up room for parents
   - Split students into 2 groups
   - Split the room in half as well
   - Groups A & B
-- 2:00 - Science Fair Style Presentations
-  - 2:00 Group A Presents; Group B w/parents can go around look at Grp A projects
-  - 2:30 Grp B Presents; Grp A go around with parents
-- 3:00 - Closing remarks to parents/students
+- 10:30 - Science Fair Style Presentations
+  - 10:30 Group A Presents; Group B w/parents can go around look at Grp A projects
+  - 11:00 Grp B Presents; Grp A go around with parents
+- 11:30 - Closing remarks to parents/students
   - Make sure they take their Arduinos
 
