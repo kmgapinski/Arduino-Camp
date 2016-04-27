@@ -127,7 +127,7 @@ void call4help(){
 }
 
 void picture(){
-  servo1.write(12);
+  servo1.write(20);
   delay(200);
   servo1.write(0);
   delay(200);

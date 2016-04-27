@@ -1,8 +1,7 @@
-#TYSTWD (20mins) 1 April 2015
-Shout out to "Dr." Don Telesca for this amazing acronym!
+#TYSTWD (20mins) 28 April 2015
 
 ##Intros (2 mins)
-- Lt. Trevor Vranicar
+- Capt. Trevor Vranicar
 - USAFA - Comp Eng
 - AFIT - Comp Eng - Networking Focus
 - AFRL - Network Eng 
@@ -11,7 +10,11 @@ Shout out to "Dr." Don Telesca for this amazing acronym!
 - Push Eng Meathod - Thinking/learning OYO
 - Lots of hands on!
 
-##The Arduino - Making an Intruder Alarm (10 mins)
-- Group Time
+##The Arduino - Conductor Test (10 mins)
+- Intro to Electricty
+- Resitance - Conductors, Insulators, and Semiconductors
+- Lets test some items
+- How do we make the Arduino Work?
+- Is resistance good, what happens when no resistance?
 
 ##Q&A (3-5 mins)
