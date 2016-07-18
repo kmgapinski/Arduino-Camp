@@ -30,7 +30,7 @@ Rome, NY 13441
 ###Morning
 - Intros
 - [Pre-Class Knowledge Survey](https://docs.google.com/forms/d/1BN4KHPlSlFA1BTNJHGzhZznNlW7po9thQxIOtxHiV5M/viewform)
-- STEM careers
+- [STEM careers](https://www.youtube.com/watch?v=3bnMBhO0LnU)
 - [Engineering Method](https://prezi.com/jdhol8z_zskh/engineering-method/ "Pressi")
 - Opening the Box
   - Put your Name on at least the box and your book
