@@ -10,7 +10,7 @@ int yellow2Pin = 10;
 int redPin = 9;
 int notConnectedPin = 8;
 int sensorValue = 0;  // variable to store the value coming from the sensor
-int wait = 100; // 100us need for alog read
+int wait = 1000; // 100us need for alog read
 //Vo = Vi*(R2/(R1+R2))
 //R2 =10k Vi =5V
 //Vo = 0-5 --> 0-1023
@@ -19,7 +19,7 @@ int red = 204;
 int yellow2 = 408;
 int yellow1 = 612;
 int green2 = 816;
-//int green1 = 1020  == MAX, 1024;
+
 
 void setup() {
   // declare the leds as an OUTPUT:
@@ -41,13 +41,13 @@ void loop() {
 
   //start  lowest
   //not connected.. 
-  if (sensorValue <= 1){
+  if (sensorValue <= 2){
     digitalWrite(notConnectedPin, HIGH); 
   } else {
      digitalWrite(notConnectedPin, LOW);
   }
   
-  if (sensorValue > 1){
+  if (sensorValue > 2){
     digitalWrite(redPin, HIGH); 
   } else {
      digitalWrite(redPin, LOW);
