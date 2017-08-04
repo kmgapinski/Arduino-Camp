@@ -127,7 +127,7 @@ Rome, NY 13441
     - At least - 1 IF, FOR , or WHILE statement
 
 ##Friday
-- 9:00 [Post-Class Knowledge Survey](https://docs.google.com/forms/d/1BN4KHPlSlFA1BTNJHGzhZznNlW7po9thQxIOtxHiV5M/viewform)
+- 9:00 [Post-Class Knowledge Survey](https://goo.gl/forms/wbObVKZBGiwpWEQW2)
 - 9:15 - Final Wrap up of Project - Demos not working get priority help! 
 - 10:00 - Start setting up room for parents
   - Split students into 2 groups
